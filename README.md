@@ -41,7 +41,7 @@ Sumber data: [Employee Data](https://github.com/dicodingacademy/dicoding_dataset
 ```
 conda create --name main-ds python=3.10
 conda activate main-ds
-pip install pandas numpy matplotlib seaborn scikit_learn tensorflow
+pip install pandas numpy matplotlib seaborn scikit_learn tensorflow joblib
 ```
 
 #### Run prediction.py
