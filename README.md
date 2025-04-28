@@ -77,7 +77,7 @@ Job role seperti Sales Executive dan Laboratory Technician memperlihatkan tingka
 5. **Bidang pendidikan Life Sciences paling terdampak attrition**.
 Ini menandakan adanya ketidakcocokan antara ekspektasi lulusan bidang ini dengan realita pekerjaan yang ditawarkan perusahaan, atau kurangnya jalur pengembangan karir yang sesuai.
 
-### Rekomendasi Action Items (Optional)
+### Rekomendasi Action Items
 
 Berikan beberapa rekomendasi action items yang harus dilakukan perusahaan guna menyelesaikan permasalahan atau mencapai target mereka.
 
