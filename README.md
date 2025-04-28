@@ -39,9 +39,17 @@ Sumber data: [Employee Data](https://github.com/dicodingacademy/dicoding_dataset
 #### Setup environment
 
 ```
+# 1. Salin Repository dari GitHub
+git clone https://github.com/fabasassa-lab/HR_Analysis.git
+
+# 2. Pindah ke Folder Proyek
+cd nama-repository
+```
+
+```
 conda create --name main-ds python=3.10
 conda activate main-ds
-pip install pandas numpy matplotlib seaborn scikit_learn tensorflow joblib
+pip install pandas numpy matplotlib seaborn scikit_learn tensorflow joblib gdown
 ```
 
 #### Run prediction.py
