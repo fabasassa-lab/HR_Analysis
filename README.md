@@ -74,8 +74,8 @@ Penggunaan dashboard ini memperkuat komitmen perusahaan terhadap pengelolaan sum
 
 Berdasarkan analisis data dalam dashboard, ditemukan insight berikut:
 
-1. **Departemen Sales memiliki tingkat attrition tertinggi sebesar 56,12%**.
-Hal ini menunjukkan adanya tantangan signifikan dalam mempertahankan karyawan di Sales, kemungkinan disebabkan oleh tekanan target penjualan yang tinggi, persaingan industri yang ketat, atau kurangnya jalur pengembangan karir yang jelas.
+1. **Departemen R&D memiliki tingkat attrition tertinggi sebesar 56,12%**.
+Hal ini menunjukkan adanya tantangan signifikan dalam mempertahankan karyawan di R&D, kemungkinan disebabkan oleh tekanan target penjualan yang tinggi, persaingan industri yang ketat, atau kurangnya jalur pengembangan karir yang jelas.
 2. **Karyawan berusia 25–34 tahun menjadi kelompok dengan tingkat attrition tertinggi sebesar 47%**.
 Kelompok usia ini biasanya terdiri dari profesional muda yang aktif mencari peluang pertumbuhan karir, kompensasi lebih baik, atau keseimbangan kehidupan kerja yang lebih ideal.
 3. **Gender juga menjadi faktor penting, dengan karyawan laki-laki menyumbang attrition lebih tinggi dibanding perempuan**.
